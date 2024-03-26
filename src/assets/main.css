@@ -1,0 +1,40 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+
+    --col-count: 12;
+    --col-size: calc(100% / 12);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #F4F4F4;
+}
+
+span {
+    font-family: "Montserrat", sans-serif;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+input {
+    border: none;
+    margin: 0;
+    background-color: transparent;
+    outline: none;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+input:focus {
+    border: none;
+}

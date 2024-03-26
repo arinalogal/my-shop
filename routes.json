@@ -1,0 +1,5 @@
+{
+    "/catalog": "/categories",
+    "/catalog/:category": "/products?categoryId=:category",
+    "/my-products/:userId": "/products?userId=:userId"
+}

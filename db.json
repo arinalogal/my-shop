@@ -1,0 +1,28 @@
+
+  
+  "tarelki": [
+    {
+      "id": 1,
+      "title": "Набор «Тотемо»",
+      "price": 7000,
+      "image": "/src/images/tarelka1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Тарелка «Эдо», 12 см",
+      "price": 3999,
+      "image": "/src/images/tarelka2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Тарелка «Цки», 16 см",
+      "price": 1899,
+      "image": "/src/images/tarelka3.svg"
+    },
+    {
+      "id": 4 ,
+      "title": "2 миски, 2 тарелки  «Такеру»",
+      "price": 6000,
+      "image": "/src/images/tarelka4.svg"
+    }
+  ]
